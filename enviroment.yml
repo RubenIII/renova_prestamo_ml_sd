@@ -1,0 +1,10 @@
+name: renova_prestamo_ml_sd
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pip
